@@ -6,9 +6,9 @@
 
 #### Minecraft server...
 
-🇪🇺 | **EU** IP: nexia.mcserver.us
+🇪🇺 | **EU** IP: eu.nexia.dev
 
-🇺🇸 | **NA** IP: nanexia.mcserver.us
+🇺🇸 | **NA** IP: na.nexia.dev
 
 #### Discord server...
 
