@@ -1,6 +1,6 @@
 # Nexia
 
-👋 | Nexia is a combat test snapshot 8c server, providing useful information about CTS.
+👋 | Nexia is a combat test snapshot 8c (CTS) server, providing useful resources and information about CTS.
 
 ## Info
 
